@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrew</h1>
-<h3 align="center">I am a student interested in Systems, Cyber Security and Automation</h3>
+<h3 align="center">I am a student interested in Systems Engineering, Cyber Security and Automation</h3>
 
 <hr>
 
